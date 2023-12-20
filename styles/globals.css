@@ -1,6 +1,8 @@
-/* styles/globals.css */
-@import 'tailwindcss/base';
-@import 'tailwindcss/components';
-@import 'tailwindcss/utilities';
-
-/* Add your custom styles here */
+body{
+    background-color: #383838;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
